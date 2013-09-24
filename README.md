@@ -1,4 +1,4 @@
 Fwshell
 =======
 
-Webshell Scanner
+Webshell Scanner V1.0
